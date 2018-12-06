@@ -10,4 +10,4 @@ channel.send(abcefghijklmnopqrstuvwyzabcefghijklmnopqrstuvwyzabcefghijklmnopqrst
 })
  
  
-client.login('NTEzMzQ0MjQwMzQwOTU5MjMz.DtGpLA.NrD5tptMs62Qas_nLPbTuEjK_n4');
+client.login('NDM2OTE4MTIwMTg0MDIxMDEy.DtGh-w.8bOVDNHZdX_hgghIq3qiw3ngBps');
